@@ -1,8 +1,6 @@
-- 👋 Hi, I’m the boring one
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Third-year student majoring in Information Systems at the University of Information Technology - Vietnam National University, HCM City.
+My language: C#, C++, Java, PHP, HTML, CSS, MySQL, MSSQL, Oracle.
+Another skills: Adobe Photoshop, Adobe Premiere, Figma, Adobe XD, Canva
 
 <!---
 mietheweirdo/mietheweirdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
