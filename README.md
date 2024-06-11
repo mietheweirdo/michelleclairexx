@@ -1,5 +1,5 @@
 Third-year student majoring in Information Systems at the University of Information Technology - Vietnam National University, HCM City. <br>
-Quick-learner and loving new experiences. <br>
+A quick-learner who loves exploring. <br>
 My Programme Languages: C#, C++, Java, PHP, CSS, Javascript, MySQL, MSSQL, Oracle, Python. <br>
 Tools: StarUML, PowerBI, Android Studio, Visual Studio, Visual Studio Code, Adobe Photoshop, Adobe Premiere, Figma, Adobe XD, Canva, JupyterNotebook, Google Colab.
 
