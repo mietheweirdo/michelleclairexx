@@ -1,6 +1,7 @@
 Third-year student majoring in Information Systems at the University of Information Technology - Vietnam National University, HCM City. <br>
-My language: C#, C++, Java, PHP, HTML, CSS, Javascript, MySQL, MSSQL, Oracle. <br>
-Another skills: Adobe Photoshop, Adobe Premiere, Figma, Adobe XD, Canva.
+Quick-learner and loving new experiences. <br>
+My Programme Languages: C#, C++, Java, PHP, CSS, Javascript, MySQL, MSSQL, Oracle, Python. <br>
+Tools: StarUML, PowerBI, Android Studio, Visual Studio, Visual Studio Code, Adobe Photoshop, Adobe Premiere, Figma, Adobe XD, Canva, JupyterNotebook, Google Colab.
 
 <!---
 mietheweirdo/mietheweirdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
