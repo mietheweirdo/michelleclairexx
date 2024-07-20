@@ -9,7 +9,7 @@ I am a senior student majoring in Information Systems at the University of Infor
 ## 🔧 My Programming Languages:
 `C#` `C++` `Java` `PHP` `CSS` `Javascript` `Python`
 
-**🗄️ Databases:
+## 🗄️ Databases:
 `MySQL` `MSSQL` `Oracle`
 
 ## 🛠️ Tools I Use:
